@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Biman Nandi
 
-Pre-Final year Engineering student with a **balanced focus on Data Structures & Algorithms and Web Development**.  
-I enjoy solving problems, building practical React-based applications, and improving my fundamentals through consistent practice.
+Final year Engineering student with a **balanced focus on Data Structures & Algorithms and Web Development**.  
+I enjoy solving problems, building practical Full-stack web applications, and improving my fundamentals through consistent practice.
 
 ---
 
 ## 🎯 What I Do
 
 - Practice **DSA**, with strong focus on arrays and problem-solving logic  
-- Build **frontend and full-stack web applications**  
+- Build **frontend and backend web applications**  
 - Learn by building projects and refining them step by step  
 
 ---
@@ -79,7 +79,7 @@ I enjoy solving problems, building practical React-based applications, and impro
 
 ## 🏆 Coding Practice & Achievements
 
-- Solved **100+ problems on LeetCode**
+- Solved **200+ problems on LeetCode**
 - Earned **50 Days Consistency Badge of 2026** on LeetCode
 - Comfortable with array-based problem solving and basic DSA patterns
 
@@ -90,7 +90,7 @@ I enjoy solving problems, building practical React-based applications, and impro
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biman-nandi&label=Profile%20views&color=0e75b6&style=flat" alt="biman-nandi" /> </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bimannandib&theme=dark&hide_border=true" alt="bimannandib" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biman-nandi&theme=dark&hide_border=true" alt="biman-nandi" /></p>
 
 ---
 
@@ -100,8 +100,8 @@ I enjoy solving problems, building practical React-based applications, and impro
 - **LinkedIn:** www.linkedin.com/in/biman-nandi-bn  
 - **LeetCode:** https://leetcode.com/u/Bimannandi/  
 - **X (Twitter):** https://x.com/LunarKode  
-- **Email:** bimannandib@gmail.com  
+- **Email:** bimannandi.work@gmail.com  
 
 ---
 
-⭐ *Actively learning, building, and open to internships and entry-level opportunities.*
+⭐ *Actively learning, building, and open to internships opportunities.*
