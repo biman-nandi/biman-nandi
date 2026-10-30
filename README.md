@@ -19,7 +19,6 @@ I enjoy solving problems, building practical React-based applications, and impro
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
 </p>
 
@@ -88,7 +87,7 @@ I enjoy solving problems, building practical React-based applications, and impro
 
 ## 📊 GitHub Statistics
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bimannandib&label=Profile%20views&color=0e75b6&style=flat" alt="bimannandib" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=biman-nandi&label=Profile%20views&color=0e75b6&style=flat" alt="biman-nandi" /> </p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bimannandib&theme=dark&hide_border=true" alt="bimannandib" /></p>
